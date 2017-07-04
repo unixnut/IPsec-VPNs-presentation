@@ -16,6 +16,22 @@ The *strongSwan* software is used on the server, and on Linux/Unix clients, but 
 
 ## Outline
 
+1. Introduction
+1. IPsec basics
+1. IPsec details
+1. Protocols
+   1. Encapsulating Security Payload (ESP)
+   1. Authentication Header (AH)
+1. Layers
+1. Kernel networking activities
+1. Internet Key Exchange Protocol
+1. StrongSwan
+1. Client config
+1. Server config
+1. Nomenclature
+1. Public Key Infrastructure
+1. Links & Questions
+
 ## Presenter bio
 
 Alastair is a Software Engineer and system administrator by trade.  He has a BSc in Computer Science from Curtin University.
@@ -26,4 +42,4 @@ He is also a freelancer with his own business.  [Warpspace IT](http://www.warpsp
 
 ## Slides
 
-**TBA**
+[VPNs with IPsec.odp](VPNs with IPsec.odp)
